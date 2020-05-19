@@ -1,5 +1,6 @@
 """
-1. Write a Python program to print the documents (syntax, description etc.) of Python built-in function(s).
+1. Write a Python program to print the documents (syntax, description etc.) 
+of Python built-in function(s).
         Sample function : abs()
         Expected Result :
         abs(number) -> number
@@ -29,22 +30,27 @@
 5. Write a Python program to get the volume of a sphere with radius 6.
     Tools: input function, math
 
-6. Write a Python program to get the difference between a given number and 17, if the number is greater than 17 return double the absolute difference.
+6. Write a Python program to get the difference between a given number and 17, 
+if the number is greater than 17 return double the absolute difference.
     Tools: abs function, input function, math
 
 7. Write a Python program to test whether a number is within 100 of 1000 or 2000.
     Tools: maths,input function
 
 
-8. Write a Python program to calculate the sum of three given numbers, if the values are equal then return three times of their sum.
+8. Write a Python program to calculate the sum of three given numbers, 
+if the values are equal then return three times of their sum.
     Tools: math, input function
 
 
-9. Write a Python program to get a new string from a given string where "Is" has been added to the front. If the given string already begins with "Is" then return the string unchanged.
+9. Write a Python program to get a new string from a given string where 
+"Is" has been added to the front. If the given string already begins with
+ "Is" then return the string unchanged.
     Tools: input function, string formating
 
 
-10. Write a Python program to get a string which is n (non-negative integer) copies of a given string.
+10. Write a Python program to get a string which is n 
+(non-negative integer) copies of a given string.
     Tools: input function, slicing
 
 

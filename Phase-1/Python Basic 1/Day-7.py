@@ -1,7 +1,7 @@
 """
-
 1. Write a Python program to determine profiling of Python programs.
-Note: A profile is a set of statistics that describes how often and for how long various parts of the program executed. These statistics can be formatted into reports via the pstats module.
+Note: A profile is a set of statistics that describes how often and for how long various parts
+ of the program executed. These statistics can be formatted into reports via the pstats module.
 
 2. Write a Python program to print to stderr.
 

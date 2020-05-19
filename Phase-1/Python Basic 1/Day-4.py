@@ -1,10 +1,12 @@
 """
 
-1. Write a Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user.
+1. Write a Python program to find whether a given number (accept from the user)
+ is even or odd, print out an appropriate message to the user.
 
 2. Write a Python program to count the number 4 in a given list.
 
-3. Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2.
+3. Write a Python program to get the n (non-negative integer) copies of the first 2 
+characters of a given string. Return the n copies of the whole string if the length is less than 2.
 
 4. Write a Python program to test whether a passed letter is a vowel or not.
 
@@ -17,7 +19,8 @@ Test Data :
 
 7. Write a Python program to concatenate all elements in a list into a string and return it.
 
-8. Write a Python program to print all even numbers from a given numbers list in the same order and stop the printing if any numbers that come after 237 in the sequence.
+8. Write a Python program to print all even numbers from a given numbers list
+ in the same order and stop the printing if any numbers that come after 237 in the sequence.
 Sample numbers list :
 numbers = [    
     386, 462, 47, 418, 907, 344, 236, 375, 823, 566, 597, 978, 328, 615, 953, 345, 
@@ -26,13 +29,15 @@ numbers = [
     958,743, 527
     ]
 
-9. Write a Python program to print out a set containing all the colors from color_list_1 which are not present in color_list_2.
+9. Write a Python program to print out a set containing all 
+the colors from color_list_1 which are not present in color_list_2.
 Test Data :
 color_list_1 = set(["White", "Black", "Red"])
 color_list_2 = set(["Red", "Green"])
 Expected Output :
 {'Black', 'White'}
 
-10. Write a Python program that will accept the base and height of a triangle and compute the area.
+10. Write a Python program that will accept the base and height of 
+a triangle and compute the area.
 
 """
